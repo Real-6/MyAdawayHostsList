@@ -30,7 +30,77 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Real-6
 # https://github.com/Real-6
 
+# Dailymotion
+
+0.0.0.0 dai.ly
+0.0.0.0 dm-event.net
+0.0.0.0 dailymotionbus.com
+0.0.0.0 dailymotionadvertising.com
+0.0.0.0 watchever.de
+0.0.0.0 watchevergroup.fr
+0.0.0.0 watchevergroup.com
+0.0.0.0 spotliner.com
+0.0.0.0 b.dailymotion.com
+0.0.0.0 dailymotion.es
+0.0.0.0 dailymotion.su
+0.0.0.0 dailymotionvideos.com
+0.0.0.0 daily.fm
+0.0.0.0 dailykids.fr
+0.0.0.0 dailymotion-kids.com
+0.0.0.0 dailymotion-kids.fr
+0.0.0.0 dailymotion-kids.net
+0.0.0.0 dailymotion.asia
+0.0.0.0 dailymotion.at
+0.0.0.0 dailymotion.be
+0.0.0.0 dailymotion.ch
+0.0.0.0 dailymotion.cn
+0.0.0.0 dailymotion.co
+0.0.0.0 dailymotion.co.uk
 0.0.0.0 dailymotion.com
+0.0.0.0 dailymotion.com.es
+0.0.0.0 dailymotion.com.mx
+0.0.0.0 dailymotion.com.pt
+0.0.0.0 dailymotion.com.tr
+0.0.0.0 dailymotion.com.tw
+0.0.0.0 dailymotion.cz
+0.0.0.0 dailymotion.dk
+0.0.0.0 dailymotion.eu
+0.0.0.0 dailymotion.fr
+0.0.0.0 dailymotion.gr
+0.0.0.0 dailymotion.ie
+0.0.0.0 dailymotion.in
+0.0.0.0 dailymotion.info
+0.0.0.0 dailymotion.it
+0.0.0.0 dailymotion.lt
+0.0.0.0 dailymotion.lu
+0.0.0.0 dailymotion.lv
+0.0.0.0 dailymotion.mx
+0.0.0.0 dailymotion.net
+0.0.0.0 dailymotion.ng
+0.0.0.0 dailymotion.nl
+0.0.0.0 dailymotion.org
+0.0.0.0 dailymotion.pl
+0.0.0.0 dailymotion.pro
+0.0.0.0 dailymotion.pt
+0.0.0.0 dailymotion.ro
+0.0.0.0 dailymotion.ru
+0.0.0.0 dailymotion.se
+0.0.0.0 dailymotion.sk
+0.0.0.0 dailymotion.sn
+0.0.0.0 dailymotion.tv
+0.0.0.0 dailymotion.uk
+0.0.0.0 dailymotion.us
+0.0.0.0 dailymotionfr.com
+0.0.0.0 dailymotionh.com
+0.0.0.0 dailymotionkids.com
+0.0.0.0 dailymotionkids.fr
+0.0.0.0 dailymotionkids.net
+0.0.0.0 delimotion.com
+0.0.0.0 delimotion.net
+0.0.0.0 delymotion.com
+0.0.0.0 dmcdn.net
+0.0.0.0 dmkids.com
+0.0.0.0 dmotion.tv
 
 
 
