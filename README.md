@@ -2,6 +2,7 @@
 Adaway Hosts List To Use Adaway As A Parental Control
 
 Unified Hosts = (Adware + Malware)
+
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 Unified Hosts + Fakenews
