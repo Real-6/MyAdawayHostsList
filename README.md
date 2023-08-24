@@ -191,3 +191,4 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 
 ### Youtube
 
+https://raw.githubusercontent.com/Real-6/MyAdawayHostsList/main/Hosts/YouTube/hosts
